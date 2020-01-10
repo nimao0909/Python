@@ -1,6 +1,10 @@
 
 
-列表创建方法：
+## 列表创建方法：
 
-list_name = []
+  list_name = []
+
+  例：
+  list_name = ['xiaoming','xiaobai','xiaowang']
+  list
 
